@@ -1,0 +1,5 @@
+github.com/fnproject/fdk-go v0.0.0-20190502190002-fe351e86c1f7 h1:tfA+DFRgJbIxVljnMfQVgO5oVdRV/kDLfXNqxxNlwrg=
+github.com/fnproject/fdk-go v0.0.0-20190502190002-fe351e86c1f7/go.mod h1:hzkP3qqXx+1pRBh2QVKr1I+jJ+5xrHIlh5z59XKZ/k0=
+github.com/oracle/oci-go-sdk v5.8.0+incompatible/go.mod h1:VQb79nF8Z2cwLkLS35ukwStZIg5F66tcBccjip/j888=
+github.com/oracle/oci-go-sdk v8.0.0+incompatible h1:YB2xDIrQYIZAToBo2OkghnDj24sOzgzzk5bK1m5JqMc=
+github.com/oracle/oci-go-sdk v8.0.0+incompatible/go.mod h1:VQb79nF8Z2cwLkLS35ukwStZIg5F66tcBccjip/j888=
